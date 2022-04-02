@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blogr-with-scss/static/css/main.c2a3d995.css",
-    "main.js": "/blogr-with-scss/static/js/main.687ed214.js",
+    "main.js": "/blogr-with-scss/static/js/main.1eb2bfdd.js",
     "static/media/illustration-phones.svg": "/blogr-with-scss/static/media/illustration-phones.fd23559f1d2f81f9e3f3340eeaf2467c.svg",
     "static/media/logo.svg": "/blogr-with-scss/static/media/logo.1591bc20b914c098a9cd6e423b1623c3.svg",
     "static/media/illustration-laptop-mobile.svg": "/blogr-with-scss/static/media/illustration-laptop-mobile.fe1ec0f05da01bb067fa78fca0b79d76.svg",
@@ -17,10 +17,10 @@
     "static/media/icon-arrow-light.svg": "/blogr-with-scss/static/media/icon-arrow-light.9ba0f38e6df41815773e653d50260ecd.svg",
     "static/media/icon-arrow-dark.svg": "/blogr-with-scss/static/media/icon-arrow-dark.5215f8d979a83644d14e8b69f6ee4633.svg",
     "main.c2a3d995.css.map": "/blogr-with-scss/static/css/main.c2a3d995.css.map",
-    "main.687ed214.js.map": "/blogr-with-scss/static/js/main.687ed214.js.map"
+    "main.1eb2bfdd.js.map": "/blogr-with-scss/static/js/main.1eb2bfdd.js.map"
   },
   "entrypoints": [
     "static/css/main.c2a3d995.css",
-    "static/js/main.687ed214.js"
+    "static/js/main.1eb2bfdd.js"
   ]
 }
