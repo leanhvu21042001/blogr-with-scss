@@ -18,7 +18,6 @@ export default function LinkButton({
 	color = null
 }) {
 	const linkButtonClassName = classNames('link-button', classConfig);
-	console.log(bgColor);
 	return (
 		<a
 			{...attrs}

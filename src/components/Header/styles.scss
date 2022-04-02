@@ -81,7 +81,8 @@
 				right: -50%;
 				width: 90%;
 				padding: 20px;
-				margin: 0 auto;
+				padding-right: 0;
+				margin: auto;
 				list-style: none;
 				text-align: center;
 				border-radius: 10px;
@@ -93,6 +94,8 @@
 
 				// Responsive navigation links.
 				@include tablet {
+					margin: 0;
+					margin-left: auto;
 					align-items: center;
 					background-color: unset;
 
@@ -118,10 +121,14 @@
 				li.item {
 					width: 100%;
 					padding: 15px 0;
+					text-align: center;
 
 					position: relative;
 					// make styles for button sign up on responsive.
 					@include tablet {
+						&:last-child {
+							text-align: right;
+						}
 						a.link-button.bg {
 							background: $neutral-white;
 							color: $gradient-light-red;
